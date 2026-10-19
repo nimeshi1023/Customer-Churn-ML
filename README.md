@@ -1,4 +1,4 @@
-# Customer Churn Prediction: README
+# Customer Churn Prediction
 
 End-to-end churn prediction project: data audit, EDA, feature engineering, modelling, evaluation, a top-20% retention simulation and a business report.
 
